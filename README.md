@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 # whoami
 
-Hi there 👋 - I'm Luca Parolari, a PhD student at the University of Padova as part of the Visual Intelligence and Machine Perception ([VIMP](http://vimp.math.unipd.it/)) group. I primarily work with generative AI for dataset generation in the field of visual grounding. I'm currently learning and working object tracking and re-identification in colonoscopy videos. I have a deep fascination with blockchain technology and astronomy.
+Hi there 👋 - I'm Luca Parolari, a **PhD student** at the **University of Padova** as part of the Visual Intelligence and Machine Perception ([VIMP](http://vimp.math.unipd.it/)) group. I primarily work with generative AI for dataset generation in the field of visual grounding. I'm currently learning and working with object tracking and re-identification of polyps in colonoscopy videos. I have a deep fascination with blockchain technology and astronomy.
 
 | [homepage](https://github.com/lparolari) | [linkedin](https://www.linkedin.com/in/lparolari/)  | [scholar](https://scholar.google.com/citations?user=NYXQKKAAAAAJ) | [cv](https://github.com/lparolari/lparolari/blob/main/cv-short.pdf) |
 | - | - | - | - |
 
-### relevant updates
+### latest news
 
-- 18/06/2024: we presented our poster at the CVPR 2024 Synthetic Data for Computer Vision workshop! [[linkedin post](https://www.linkedin.com/posts/lparolari_cvpr2024-syndata4cv-activity-7208193762114633728-_tyi?utm_source=share&utm_medium=member_desktop)] 
+- 18/06/2024: we presented our poster at the CVPR 2024 Synthetic Data for Computer Vision workshop! 🎉 [[linkedin post](https://www.linkedin.com/posts/lparolari_cvpr2024-syndata4cv-activity-7208193762114633728-_tyi?utm_source=share&utm_medium=member_desktop)] 
 
 ### selected papers
 
