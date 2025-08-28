@@ -30,7 +30,7 @@ I primarily work in medical imaging for computer-aided diagnosis, specifically i
 
 ### selected publications
 
-* **L. Parolari**, A. Cherubini, L. Ballan, C. Biffi. _Temporally-Aware Supervised Contrastive Learning for Polyp Counting in Colonoscopy_. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCA) 2025, Daejoon, South Corea. 2025. [[paper](https://arxiv.org/abs/2507.02493)]
+* **L. Parolari**, A. Cherubini, L. Ballan, C. Biffi. _Temporally-Aware Supervised Contrastive Learning for Polyp Counting in Colonoscopy_. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025, Daejoon, South Corea. 2025. [[paper](https://arxiv.org/abs/2507.02493)]
 * E. Izzo, **L. Parolari**, D. Vezzarro, L. Ballan. _7Bench: a Comprehensive Benchmark for Layout-guided Text-to-image Models_. In International Conference on Image Analysis and Processing (ICIAP) 2025, Rome, Italy. 2025. [[paper](https://arxiv.org/abs/2508.12919)]
 * **L. Parolari**, A. Cherubini, L. Ballan, C. Biffi. _Towards Polyp Counting In Full-Procedure Colonoscopy Videos_. In International Symposium on Biomedical Imaging (ISBI) 2025, Houston, USA. 2025. [[paper](https://arxiv.org/pdf/2502.10054)][[code](https://github.com/lparolari/towards-polyp-counting)]
 * **L. Parolari**, E. Izzo, L. Ballan. _Harlequin: Annotation-driven Generation of Synthetic Data for Referring Expression Comprehension_. In International Conference in Patter Recognition (ICPR) 2024, Kolkata, India. 2024. [[paper](https://arxiv.org/pdf/2411.14807)][[short](https://openreview.net/forum?id=EZYvU2oC6J)][[code](https://github.com/lparolari/harlequin)] <!-- at [SD4CV@CVPR'24](https://syndata4cv.github.io/)] -->
