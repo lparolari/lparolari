@@ -19,7 +19,7 @@ Hi there 👋 - I'm Luca Parolari, a [PhD student](http://hit.psy.unipd.it/parol
 
 I primarily work on self-supervised and contrastive learning on low-label and noisy settings, with a focus on medical imaging I've previously worked on generative AI for dataset generation and visual grounding. I have a deep fascination with astronomy.
 
-| [homepage](https://github.com/lparolari) | [linkedin](https://www.linkedin.com/in/lparolari/)  | [scholar](https://scholar.google.com/citations?user=NYXQKKAAAAAJ) | [cv](https://github.com/lparolari/lparolari/blob/main/cv-short.pdf) |
+| [homepage](https://github.com/lparolari) | [linkedin](https://www.linkedin.com/in/lparolari/)  | [scholar](https://scholar.google.com/citations?user=NYXQKKAAAAAJ) | [cv](https://github.com/lparolari/lparolari/blob/main/cv.pdf) |
 | - | - | - | - |
 
 <!--
@@ -40,12 +40,16 @@ I primarily work on self-supervised and contrastive learning on low-label and no
 
 ### work experience
 
+* AI Software Engineer · **Orobix** · Bergamo, Italy · 01/2022–11/2022
+* Software Engineer · **freelance** · 2019-2021
+* CS Teacher · **"Camillo Golgi" High School** · Breno (BS), Italy · 11/2019–06/2021
+* Full Stack Developer · **freelance** · 2016-2019
+
+### academic work experience
+
 * PhD Student · **University of Padova** · Padova, Italy · 11/2023–current
 * Visiting PhD Student · **Telecom Paris, Institut Polytechnique de Paris** · Paris, France · 10/2025–03/2026
 * Research Fellow · **University of Padova** · Padova, Italy · 12/2022–10/2023
-* AI Software Engineer · **Orobix** · Bergamo, Italy · 01/2022–11/2022
-* CS Teacher · **"Camillo Golgi" High School** · Breno (BS), Italy · 11/2019–06/2021
-* Software Engineer · **freelance** · 2016-2019
 
 ### education
 * Ph.D. in Brain, Mind and Computer Science, University of Padova, Italy · 2023-current
